@@ -1,0 +1,8 @@
+This code has been developed by Maksym Ovchynnikov and Miguel Escudero for https://arxiv.org/abs/2511.00157.
+
+It allows one to calculate the primordial element abundances in the presence of a ALP coupled to photons and which decays predominantly to a pair of photons and sometimes to mesons (for ma >2 mpi). 
+                                                                                                                                                                                     
+It is in Mathematica and it is commented. It can be ran in parallel mode. 
+
+The settings are as in 2511.00157 with the small difference that in this public version of the code we only consider pion interactions and we consider them at rest. This covers almost the entire region of interest.                                                                                                                                                                                      
+                                                                                                                                                                                     
