@@ -6,3 +6,14 @@ It is in Mathematica and it is commented. It can be ran in parallel mode.
 
 The settings are as in 2511.00157 with the small difference that in this public version of the code we only consider pion interactions and we consider them at rest. This covers almost the entire region of interest.                                                                                                                                                                                      
                                                                                                                                                                                      
+BBN_Easy_ALP.nb is the main Mathematica file used in the code. It contains the documentation of the various functions and their output.
+
+We built this code making extensive use of one other code, nudec_BSM, to calculate the early Universe thermodynamics:
+
+    https://github.com/MiguelEA/nudec_BSM
+
+and also we took the nuclear reaction rates as reported in the repository for the PRIMAT BBN code:
+
+    https://www2.iap.fr/users/pitrou/primat.htm
+
+We recommend users of our code to acknowledge these other two. 
