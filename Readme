@@ -6,7 +6,7 @@ It is in Mathematica and it is commented. It can be ran in parallel mode.
 
 The settings are as in 2511.00157 with the small difference that in this public version of the code we only consider pion interactions and we consider them at rest. This covers almost the entire region of interest.                                                                                                                                                                                      
                                                                                                                                                                                      
-BBN_Easy_ALP.nb is the main Mathematica file used in the code. It contains the documentation of the various functions and their output.
+0_BBN_Easy_ALP.nb is the main Mathematica file used in the code. It contains the documentation of the various functions and their output.
 
 We built this code making extensive use of one other code, nudec_BSM, to calculate the early Universe thermodynamics:
 
